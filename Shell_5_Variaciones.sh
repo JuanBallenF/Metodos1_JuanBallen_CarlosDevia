@@ -18,3 +18,6 @@ fden=$final
 rta=$(($n/$fden))
 
 echo $rta
+
+# 6. Cuál es la complejidad computacional del algoritmo del ejercicio anterior?  Se requiere llamar a la función factorial y realizar las operaciones con los parámetros ingresados
+
